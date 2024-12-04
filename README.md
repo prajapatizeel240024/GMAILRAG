@@ -208,8 +208,6 @@ beautifulsoup4
 
 ---
 
-Feel free to clone, customize, and improve the system! If you have any questions or issues, please open an issue on GitHub. 🎉
-
 ### **How Agents Work in This System**
 
 Agents are specialized tools or mechanisms that use AI models to analyze, process, and respond to specific tasks or queries. In this system, agents are built using **LangChain**, **OpenAI embeddings**, and other AI-powered tools to automate email management and FAQ generation.
@@ -357,5 +355,3 @@ Agents are decision-making components powered by AI. They can:
    - Users can directly query the system for specific needs without manual searching.
 
 ---
-
-Let me know if you'd like a deeper dive into a specific part of the agent system!
