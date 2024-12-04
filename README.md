@@ -1,6 +1,7 @@
 # **Email Management and FAQ Knowledge Base System**
 
-![image](https://github.com/user-attachments/assets/af108d62-7023-469c-887e-5678138082f3)
+![image](https://github.com/user-attachments/assets/2d62b782-5e80-46d1-99d4-bc4c26a9dec5)
+
 
 This repository provides a streamlined system to convert `.mbox` email files into actionable data, categorize emails, generate FAQs, and build a semantic knowledge base for intelligent query processing.
 
