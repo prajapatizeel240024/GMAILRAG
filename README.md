@@ -355,17 +355,3 @@ Agents are decision-making components powered by AI. They can:
    - Users can directly query the system for specific needs without manual searching.
 
 ---
-# Review and Sign OCR/Information Retrieval - Frontend API Documentation
-
-## Overview
-This document describes all APIs related to the Review and Sign milestone, including OCR-based information retrieval and inconsistency detection.
-
----
-
-## Table of Contents
-1. [Get Unresolved Inconsistencies](#1-get-unresolved-inconsistencies)
-2. [Submit Review & Sign Milestone](#2-submit-review--sign-milestone)
-3. [Get Milestone (with Application Review URL)](#3-get-milestone-with-application-review-url)
-4. [Flow Diagram](#flow-diagram)
-
----
